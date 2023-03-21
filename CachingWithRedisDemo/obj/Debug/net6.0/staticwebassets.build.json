@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "woBkopR2RETo/RyaAnj0zOL/WDanM8Mt+/B5fPzBGIM=",
+  "Source": "CachingWithRedisDemo",
+  "BasePath": "_content/CachingWithRedisDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
